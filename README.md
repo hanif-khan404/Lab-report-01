@@ -1,9 +1,9 @@
 ## Lab-report-01
 Implementation of Iterative Deepening Depth-First Search (IDDFS) .
 
-Name:Abu Hanif Khan /n
-ID: 232002053 /n
-Batch: 232_D7 /n
+Name:Abu Hanif Khan <br>
+ID: 232002053 <br>
+Batch: 232_D7 <br>
 Course: CSE 316 <br>
 
 ## OBJECTIVES: 
