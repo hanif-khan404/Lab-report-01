@@ -1,10 +1,10 @@
-# Lab-report-01
+### Lab-report-01
 Implementation of Iterative Deepening Depth-First Search (IDDFS) .
 
-Name:Abu Hanif Khan
-ID: 232002053
-Batch: 232_D7
-Course: CSE 316 
+# Name:Abu Hanif Khan
+# ID: 232002053
+# Batch: 232_D7
+# Course: CSE 316 
 
 OBJECTIVES: 
 This laboratory experiment is to implement and Analyze the Iterative Deepening Depth-First Search (IDDFS) algorithm for solving a pathfinding problem in a two-dimensional maze environment.
