@@ -1,4 +1,4 @@
-#### Lab-report-01
+## Lab-report-01
 Implementation of Iterative Deepening Depth-First Search (IDDFS) .
 
 Name:Abu Hanif Khan
@@ -14,4 +14,21 @@ This laboratory experiment is to implement and Analyze the Iterative Deepening D
 ## How to Run 
 ```bash
 Hanif.py
+```
+## Example:
+# input
+```bash
+4 4
+0 1 0 1
+0 0 0 1
+1 1 0 0
+0 0 1 0
+Start: 0 0
+Target: 2 3
+
+```
+## Output 
+```bash
+Path found at depth 5 using IDDFS
+Traversal Order: [(0,0), (1,0), (1,1), (1,2), (2,2), (2,3)]
 ```
